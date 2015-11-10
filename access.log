@@ -1,0 +1,6 @@
+::1 - - [10/Nov/2015:19:05:27 +0000] "GET /1 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36"
+::1 - - [10/Nov/2015:19:05:30 +0000] "GET /2 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36"
+::1 - - [10/Nov/2015:19:39:15 +0000] "GET /2 HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36"
+::1 - - [10/Nov/2015:19:39:21 +0000] "GET /favicon.ico HTTP/1.1" 200 33 "http://localhost:3000/2" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36"
+::1 - - [10/Nov/2015:19:42:41 +0000] "GET / HTTP/1.1" 200 15 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36"
+::1 - - [10/Nov/2015:19:44:22 +0000] "GET /2 HTTP/1.1" 200 1 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36"
